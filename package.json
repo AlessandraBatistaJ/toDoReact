@@ -1,0 +1,22 @@
+{
+  "name": "todoreact",
+  "version": "1.0.1",
+  "description": "To Do list with react",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessandraBatistaJ/toDoReact.git"
+  },
+  "keywords": [
+    "fiapinha!8"
+  ],
+  "author": "Alessandra Batista",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AlessandraBatistaJ/toDoReact/issues"
+  },
+  "homepage": "https://github.com/AlessandraBatistaJ/toDoReact#readme"
+}
